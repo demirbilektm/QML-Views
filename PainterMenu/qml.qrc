@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ListMenu.qml</file>
+        <file>ImageC.qml</file>
+        <file>Content/Rembrandt.JPG</file>
+        <file>Content/VanGogh.jpg</file>
+        <file>Content/Dali.jpg</file>
+        <file>Content/Gilot.jpg</file>
+        <file>Content/Kahlo.jpeg</file>
+        <file>Content/Magriette.jpg</file>
+        <file>Content/Picasso.jpg</file>
+        <file>Content/paint-2 (2).svg</file>
+        <file>Icons/information.svg</file>
+    </qresource>
+</RCC>
